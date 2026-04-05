@@ -1,4 +1,4 @@
-# PRD — Marketplace Cartonnage
+# PRD — La boite a C Eshop cartonnage
 **Version** : 1.0  
 **Date** : Avril 2026  
 **Statut** : En cours
